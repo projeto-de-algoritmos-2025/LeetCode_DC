@@ -18,4 +18,4 @@ Este projeto visa aplicar o conhecimento adquirido na disciplina projeto de algo
 | -- | -- | -- | -- |
 | 1 |[median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer) |  https://youtu.be/T0aTE2-qzW0 | Difícil |
 | 2 |[merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/?envType=problem-list-v2&envId=divide-and-conquer) | https://youtu.be/T0aTE2-qzW0 | Difícil |
-| 3 |[count smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self?envType=problem-list-v2&envId=divide-and-conquer) | | Difícil
+| 3 |[count smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self?envType=problem-list-v2&envId=divide-and-conquer) | https://youtu.be/LGttRGWLDUY | Difícil
