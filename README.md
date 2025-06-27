@@ -16,4 +16,5 @@ Este projeto visa aplicar o conhecimento adquirido na disciplina projeto de algo
 
 | # | Problema | Solução | Nível |
 | -- | -- | -- | -- |
-| 1 | | | |
+| 1 |[median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer) |  https://youtu.be/T0aTE2-qzW0 | Difícil |
+| 2 |[merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/?envType=problem-list-v2&envId=divide-and-conquer) | https://youtu.be/T0aTE2-qzW0 | Difícil |
